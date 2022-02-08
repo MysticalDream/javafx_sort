@@ -1,11 +1,11 @@
-package two;
+package priv.wcj.sortview;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
-import two.manager.SceneManager;
-import two.manager.StageManager;
-import two.enums.SceneName;
-import two.enums.StageName;
+import priv.wcj.sortview.manager.SceneManager;
+import priv.wcj.sortview.manager.StageManager;
+import priv.wcj.sortview.enums.SceneName;
+import priv.wcj.sortview.enums.StageName;
 
 /**
  * 主入口主类

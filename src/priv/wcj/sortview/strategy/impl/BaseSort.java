@@ -1,4 +1,4 @@
-package two.strategy.impl;
+package priv.wcj.sortview.strategy.impl;
 
 /**
  * 基本排序抽象类,主要是对toString的重写使得排序算法实现类放到选择盒子里面有名字显示

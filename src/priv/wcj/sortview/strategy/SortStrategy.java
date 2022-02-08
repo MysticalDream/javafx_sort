@@ -1,4 +1,4 @@
-package two.strategy;
+package priv.wcj.sortview.strategy;
 
 /**
  * 排序算法策略接口

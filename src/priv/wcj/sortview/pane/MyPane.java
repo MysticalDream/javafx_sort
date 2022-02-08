@@ -1,4 +1,4 @@
-package two.pane;
+package priv.wcj.sortview.pane;
 
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
@@ -13,13 +13,13 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
-import two.manager.SceneManager;
-import two.manager.StageManager;
-import two.enums.SceneName;
-import two.enums.StageName;
-import two.strategy.Call;
-import two.strategy.SortStrategy;
-import two.strategy.SortStrategyFactory;
+import priv.wcj.sortview.manager.SceneManager;
+import priv.wcj.sortview.manager.StageManager;
+import priv.wcj.sortview.enums.SceneName;
+import priv.wcj.sortview.enums.StageName;
+import priv.wcj.sortview.strategy.Call;
+import priv.wcj.sortview.strategy.SortStrategy;
+import priv.wcj.sortview.strategy.SortStrategyFactory;
 
 
 import java.util.function.UnaryOperator;

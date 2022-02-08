@@ -1,7 +1,7 @@
-package two.strategy.impl;
+package priv.wcj.sortview.strategy.impl;
 
-import two.strategy.Call;
-import two.strategy.SortStrategy;
+import priv.wcj.sortview.strategy.Call;
+import priv.wcj.sortview.strategy.SortStrategy;
 
 /**
  * 二分法插入排序

@@ -1,8 +1,8 @@
-package two.manager;
+package priv.wcj.sortview.manager;
 
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import two.enums.StageName;
+import priv.wcj.sortview.enums.StageName;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

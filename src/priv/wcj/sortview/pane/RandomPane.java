@@ -1,4 +1,4 @@
-package two.pane;
+package priv.wcj.sortview.pane;
 
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;

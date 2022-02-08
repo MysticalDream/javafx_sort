@@ -1,6 +1,6 @@
-package two.strategy;
+package priv.wcj.sortview.strategy;
 
-import two.strategy.impl.*;
+import priv.wcj.sortview.strategy.impl.*;
 
 import java.util.ArrayList;
 import java.util.List;

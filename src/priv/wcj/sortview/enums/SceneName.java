@@ -1,4 +1,4 @@
-package two.enums;
+package priv.wcj.sortview.enums;
 
 /**
  * 场景名字枚举

@@ -1,4 +1,4 @@
-package two.strategy;
+package priv.wcj.sortview.strategy;
 
 /**
  * 回调接口

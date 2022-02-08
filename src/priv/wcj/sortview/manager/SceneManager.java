@@ -1,9 +1,9 @@
-package two.manager;
+package priv.wcj.sortview.manager;
 
 import javafx.scene.Scene;
-import two.pane.MyPane;
-import two.pane.RandomPane;
-import two.enums.SceneName;
+import priv.wcj.sortview.pane.MyPane;
+import priv.wcj.sortview.pane.RandomPane;
+import priv.wcj.sortview.enums.SceneName;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
